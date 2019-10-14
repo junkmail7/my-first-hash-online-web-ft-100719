@@ -1,10 +1,8 @@
 def my_hash
   # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-dictionary = {
+um = {
  
-  "apple" => "a delicious fruit",
-  "this readme" => "wonderful and informative piece of reading",
-  "Moby Dick" => "a novel by my good friend, Herman Melville"
+  "ok"=>"alrihgt"
  
 }
   
